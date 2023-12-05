@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AkshatKala9441/AkshatKala9441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on DSA and Web Development.
 - 🌱 I’m currently learning DSA through Java.
 - 👯 I’m looking to collaborate on a project that's related to cloud computing.
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/akshat-kala-b780a3256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Engaging in activities that challenge logical thinking can be both enjoyable and beneficial for cognitive development.
--->
